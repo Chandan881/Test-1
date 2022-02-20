@@ -1,0 +1,57 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+
+
+
+}
+
+
+h2{
+   padding-bottom: 25px;
+}
+
+.container{
+    text-align: center;
+    background-color: whitesmoke;
+   margin-top: 20px;
+   margin-left: 350px;
+   margin-right: 350px;
+   padding-bottom: 25px ;
+   padding-top: 25px;
+   background-color: grey;
+    
+}
+
+
+body{
+  background:  linear-gradient(135deg, rgb(163, 33, 94), #1b0624);
+    
+}
+
+
+div{
+   padding-bottom: 10px;
+
+}
+
+#a1{
+   background-color: green;
+   height: 30px;
+   width: 3cm;
+
+
+}
+
+#a2{
+background-color: red;
+height: 30px;
+width: 3cm;
+
+}
+
+   
+
+
